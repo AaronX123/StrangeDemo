@@ -1,0 +1,6 @@
+
+server:
+  port: 10050
+spring:
+  application:
+    name: 风控系统Demo
